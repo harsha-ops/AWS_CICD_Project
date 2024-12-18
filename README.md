@@ -1,6 +1,6 @@
 ## WORK IN PROGRESS
 
-## AWS CI/CD Demo
+## Deployed a simple python application using AWS CI/CD.
 
 ## Set Up GitHub Repository
 
